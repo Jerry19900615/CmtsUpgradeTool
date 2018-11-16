@@ -1,0 +1,40 @@
+INFO:root:upgrading start
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:upgrading 3228 fpga
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:upgrading start
+WARNING:cmtsHelper.Cmts:ping 192.168.2.200 failed
+ERROR:root:cmts not startup ok
+INFO:root:upgrading start
+WARNING:cmtsHelper.Cmts:ping 192.168.2.200 failed
+ERROR:root:cmts not startup ok
+INFO:root:upgrading start
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+ERROR:cmtsHelper.Cmts:docsiscore not startup
+ERROR:root:cmts not startup ok
+INFO:root:upgrading start
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+ERROR:cmtsHelper.Cmts:docsiscore not startup
+ERROR:root:cmts not startup ok
+INFO:root:upgrading start
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+ERROR:cmtsHelper.Cmts:docsiscore not startup
+ERROR:root:cmts not startup ok
+INFO:root:upgrading start
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+ERROR:cmtsHelper.Cmts:docsiscore not startup
+ERROR:root:cmts not startup ok
+INFO:root:upgrading start
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:upgrading 3228 fpga
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+ERROR:cmtsHelper.Cmts:upgrade 3228 fpga error
+ERROR:root:upgrade 3228 fpga failed

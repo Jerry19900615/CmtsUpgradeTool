@@ -1,0 +1,43 @@
+INFO:root:upgrading start
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:upgrading 3228 fpga
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:pyftpdlib:192.168.2.200:37209-[] FTP session opened (connect)
+INFO:pyftpdlib:192.168.2.200:37209-[anonymous] USER 'anonymous' logged in.
+INFO:pyftpdlib:192.168.2.200:37209-[anonymous] RETR D:\python\3228upgrade\CmtsUpgradeTool\files\BCM3228_20180730.bin completed=1 bytes=13321404 seconds=0.373
+INFO:pyftpdlib:192.168.2.200:37209-[anonymous] FTP session closed (disconnect).
+INFO:root:upgrading 3228 fpga success.
+start upgrading system
+INFO:root:upgrading cmts success
+INFO:root:upgrading start
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:upgrading 3228 fpga
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:upgrading start
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:upgrading 3228 fpga
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:upgrading start
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:upgrading 3228 fpga
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:upgrading start
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:upgrading 3228 fpga
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:upgrading start
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) successful!
+INFO:root:upgrading 3228 fpga
+INFO:paramiko.transport:Connected (version 2.0, client dropbear_2016.74)
+INFO:paramiko.transport:Authentication (password) failed.
